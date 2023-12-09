@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">aman_kumar_s_application8</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_continue">Continue</string>
+<string name="msg_milk_medium_fat2">Milk Medium Fat
+     30
+500ml</string>
+<string name="msg_milk_medium_fat3">Milk Medium Fat
+
+500ml</string>
+<string name="lbl_logout">LOGOUT</string>
+<string name="msg_milk_bottle">MILK BOTTLE
+     120/kg</string>
+<string name="msg_the_milk_produc">"The milk produced on Punjab's farms is renowned for its purity, freshness, and nutritional value."</string>
+<string name="msg_lassi_120">LASSI
+     120/kg</string>
+<string name="lbl_milk_medium_fat2">Milk Medium Fat
+
+</string>
+<string name="msg_fruits_and_vegi">FRUITS AND VEGITABLES</string>
+<string name="lbl2">+</string>
+<string name="lbl_about">About</string>
+<string name="lbl_wallet">Wallet</string>
+<string name="lbl_302">  30</string>
+<string name="msg_dahi_120_k">DAHI
+     120/kg</string>
+<string name="msg_most_popular_pr">Most Popular Products</string>
+<string name="msg_enter_otp_sent">Enter OTP sent to +91-8802768985</string>
+<string name="lbl_total">Total</string>
+<string name="lbl_payment_methods">PAYMENT METHODS</string>
+<string name="lbl_milk_medium_fat">Milk Medium Fat
+</string>
+<string name="msg_verify_procee">VERIFY &amp; PROCEED</string>
+<string name="msg_do_you_have_a_p">Do you have a promotional code?</string>
+<string name="lbl_edit">EDIT</string>
+<string name="lbl_full_address">Full Address</string>
+<string name="lbl_add_items">ADD
+ITEMS</string>
+<string name="msg_enter_otp_sent2">Enter OTP sent to </string>
+<string name="lbl_delivery">Delivery</string>
+<string name="lbl_get_started">Get Started</string>
+<string name="lbl_reffer">Reffer</string>
+<string name="lbl_milk2">MILK</string>
+<string name="lbl_pin_code">PIN CODE </string>
+<string name="msg_enter_promo_cod">ENTER PROMO CODE HERE</string>
+<string name="msg_enter_mobile_nu">Enter Mobile Number</string>
+<string name="lbl_proceed">PROCEED</string>
+<string name="msg_don_t_receive_t2">Don\u2019t receive the OTP?</string>
+<string name="lbl_profile">PROFILE</string>
+<string name="lbl">-</string>
+<string name="lbl_farm_to_home">Farm To home</string>
+<string name="msg_there_is_no_ord">There is no order sheduled for 
+tomorrow</string>
+<string name="msg_choose_payment">Choose Payment Mathod</string>
+<string name="lbl_email">EMAIL</string>
+<string name="lbl_lassi">LASSI</string>
+<string name="msg_1">-          1          +</string>
+<string name="lbl_products">Products</string>
+<string name="lbl_1">          1          </string>
+<string name="msg_seize_thrilling">Seize thrilling deals for significant savings.</string>
+<string name="msg_create_a_person">Create a personalized subscription Plan.</string>
+<string name="msg_place_daily_ord">Place daily orders for fresh milk and groceries.</string>
+<string name="msg_milk_full_fat">MILK FULL FAT
+     120/kg</string>
+<string name="lbl_91_8802768985">+91-8802768985</string>
+<string name="lbl_resend_otp">RESEND OTP</string>
+<string name="msg_otp_verificatio">OTP Verification</string>
+<string name="msg_related_product">Related Products</string>
+<string name="msg_activate_the_va">Activate the vacation mode to pause deliveries.</string>
+<string name="lbl_butter">Butter</string>
+<string name="msg_choose_delivery">Choose delivery address</string>
+<string name="lbl_30_500ml">  30
+500ml</string>
+<string name="msg_shop_by_categor">Shop By Category</string>
+<string name="lbl_curd">Curd</string>
+<string name="lbl_500ml">500ml</string>
+<string name="lbl_milk">Milk</string>
+<string name="lbl_add">ADD</string>
+<string name="lbl_ghee2">Ghee</string>
+<string name="lbl_mobile_number">MOBILE NUMBER</string>
+<string name="lbl_more">More</string>
+<string name="lbl_30">30</string>
+<string name="msg_milk_medium_fat">MILK MEDIUM FAT
+     60/kg</string>
+<string name="msg_proceed_to_pay">PROCEED TO PAY 30</string>
+<string name="msg_don_t_receive_t">Don\u2019t receive the OTP? RESEND OTP</string>
+<string name="msg_milk_low_fat">MILK LOW FAT
+     120/kg</string>
+<string name="lbl_butter_milk">Butter 
+Milk</string>
+<string name="lbl_dahi">DAHI</string>
+<string name="lbl_ghee">GHEE</string>
+<string name="lbl_orders">ORDERS</string>
+<string name="lbl_help">HELP</string>
+<string name="msg_by_signing_up_y">By Signing up you agree to 
+Tnc and Privacy Policy</string>
+<string name="lbl_standard_free">Standard-Free</string>
+<string name="lbl_mobile_number2">MOBILE NUMBER </string>
+<string name="lbl_paneer">Paneer</string>
+<string name="lbl_full_name">Full name</string>
+<string name="lbl_benefits">Benefits</string>
+</resources>
